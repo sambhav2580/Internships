@@ -1,3 +1,4 @@
+Tasks performed:
 - Worked as an assistant under the professional psychologist.
 - Interacted with mental health patients and generated their
 case historv.
